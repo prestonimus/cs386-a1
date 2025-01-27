@@ -9,4 +9,4 @@ You can use [pip](https://pypi.org/project/pip/) for all components necessary fo
 ## Developers
 **Jalen Jensen**  
 *Preston Smith*  
--Mayanna John
+Mayanna John
