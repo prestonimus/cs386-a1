@@ -1,7 +1,11 @@
-# cs386-a1
-Worksheet 2-1 Self Driving Car
+# MyCarDirvier
+
+## Instalation
+
+You can use [pip](https://pypi.org/project/pip/) for all components necessary for this project. 
+[pip_image](https://pypi.org/static/images/logo-large.9f732b5f.svg)
 
 ## Developers
-Preston Smith
-Jalen Jensen
+**Jalen Jensen**
+* * Preston Smith * *
 Mayanna John
