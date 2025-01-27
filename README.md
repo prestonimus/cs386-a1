@@ -7,6 +7,6 @@ You can use [pip](https://pypi.org/project/pip/) for all components necessary fo
 ![pip_image](https://pypi.org/static/images/logo-large.9f732b5f.svg)
 
 ## Developers
--**Jalen Jensen**
--*Preston Smith*
+**Jalen Jensen**  
+*Preston Smith*  
 -Mayanna John
